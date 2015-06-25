@@ -5,7 +5,7 @@ Websites that support SSLv3 and CBC-mode ciphers are potentially vulnerable to a
 
 Any website that supports SSLv3 is vulnerable to POODLE, even if it also supports more recent versions of TLS. SSLv3 will be disabled by default in Firefox 34, which will be released on Nov 25 2014.#wiki_source
 # Vulnerability Title: Algerie telecom POODLE attack -server d1003237-2983  
- # Date: 2015-04-21 ( NOT FIXED YET - SECUTIY SUPPORT )  
+ # Date: 2015-04-21 ( NOT FIXED YET  )  
  # Vulnerability Author: Vulnerability.xyz Team   
  # Website: Vulnerability.xyz  
  # Vendor Homepage: djaweb.dz  

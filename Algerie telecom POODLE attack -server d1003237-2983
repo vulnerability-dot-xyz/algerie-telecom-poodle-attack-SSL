@@ -1,0 +1,21 @@
+
+Vulnerability description :
+
+Websites that support SSLv3 and CBC-mode ciphers are potentially vulnerable to an active MITM (Man-in-the-middle) attack. This attack, called POODLE, is similar to the BEAST attack and also allows a network attacker to extract the plaintext of targeted parts of an SSL connection, usually cookie data. Unlike the BEAST attack, it doesn't require such extensive control of the format of the plaintext and thus is more practical. 
+
+Any website that supports SSLv3 is vulnerable to POODLE, even if it also supports more recent versions of TLS. SSLv3 will be disabled by default in Firefox 34, which will be released on Nov 25 2014.#wiki_source
+# Vulnerability Title: Algerie telecom POODLE attack -server d1003237-2983  
+ # Date: 2015-04-21 ( NOT FIXED YET - SECUTIY SUPPORT )  
+ # Vulnerability Author: Vulnerability.xyz Team   
+ # Website: Vulnerability.xyz  
+ # Vendor Homepage: djaweb.dz  
+ # Vulnerability Link: http://d1003237-2983.djaweb.dz/  
+ # Version: .X.X.X  
+ # Tested on: windows 7 / ubuntu / kali   
+ # Category: webapps / SSL Vulnerability  
+  Vulnerability Details:   
+  http://d1003237-2983.djaweb.dz POODLE attack   
+  Vulnerability status :   
+  we Email to : contact@algerietelecom.dz but no replay from security Team !   
+  # 21-04-2015 - Vulnerability.xyz Team   
+  # public : 25-06-2015 - Vulnerability.xyz Team 
